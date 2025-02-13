@@ -46,7 +46,7 @@ Economics graduate from ITAM bringing analytical rigor and business acumen to te
 
 ## 📫 Get in Touch
 
-- LinkedIn: [ricardo-muñoz-romero](https://linkedin.com/in/ricardo-muñoz-romero)
+- LinkedIn: [ricardo-muñoz-romero](https://www.linkedin.com/in/ricardo-mu%C3%B1oz-romero-5911761b1/)
 - Email: ricardo.munoz.romero@hotmail.com
 
 ---
