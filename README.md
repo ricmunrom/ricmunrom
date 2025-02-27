@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ricardo Muñoz Romero
 
-Full Stack Developer and Data Scientist specialized in AI/ML solutions. Economics background with a passion for building intelligent systems.
+Python Developer and Data Scientist specialized in AI/ML solutions. Economics background with a passion for building intelligent systems.
 
 ## 🚀 What I Do
 
@@ -10,9 +10,9 @@ Full Stack Developer and Data Scientist specialized in AI/ML solutions. Economic
 
 ## 💻 Tech Stack
 
-- **Languages:** Python, JavaScript, SQL
+- **Languages:** Python, JavaScript (Basic), SQL
 - **Cloud & DevOps:** AWS, DigitalOcean, Linux, Git
-- **Frameworks:** React, FastAPI, Flask
+- **Frameworks:** React (Basic), FastAPI, Flask
 - **AI/ML:** Databricks, Prophet, scikit-learn
 - **Databases:** PostgreSQL
 
