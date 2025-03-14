@@ -16,7 +16,6 @@ Python Developer and Data Scientist with a background in Economics. Specialized 
 ### AI Query Agent
 - Natural language processing system built with Databricks Model Serving
 - Intelligent routing of queries to appropriate API endpoints
-- 85% routing accuracy with response times under 3 seconds
 
 ### Sales Forecasting Pipeline
 - End-to-end forecasting system using Prophet
