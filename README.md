@@ -1,44 +1,37 @@
-# 👋 Hi, I'm Ricardo Muñoz Romero
-Python Developer and Data Scientist with a background in Economics. Specialized in building intelligent systems and data-driven solutions.
+# Ricardo Muñoz Romero
 
-## 🚀 What I Do
-- Develop AI-powered applications and natural language processing systems
-- Build end-to-end data pipelines and predictive models
-- Create secure and scalable back-end applications with Python
+Data Scientist and Applied Econometrician with a background in Economics. I build data-driven systems that combine rigorous quantitative methods with production-ready engineering.
 
-## 💻 Tech Stack
-- **Languages:** Python, SQL, JavaScript (Basic)
-- **Cloud & DevOps:** AWS, DigitalOcean, Linux, Git, Docker
-- **Frameworks:** FastAPI, Flask, LangChain, Prophet, scikit-learn, React (Basic)
-- **Databases:** PostgreSQL, Oracle, MySQL, DynamoDB, MongoDB
+## What I Do
 
-## 🔥 Featured Projects
+- Design and implement end-to-end data pipelines and predictive models
+- Apply econometric methods to pricing, demand estimation, and forecasting problems
+- Build scalable back-end applications and APIs with Python
+
+## Tech Stack
+
+**Languages:** Python, SQL, JavaScript  
+**Cloud & DevOps:** AWS, DigitalOcean, Linux, Git, Docker  
+**Frameworks:** FastAPI, Flask, LangChain, Prophet, scikit-learn, React  
+**Databases:** PostgreSQL, Oracle, MySQL, DynamoDB, MongoDB
+
+## Featured Projects
+
+### Price Elasticity Pipeline
+End-to-end elasticity modeling pipeline for pricing optimization. Estimates price elasticity per product/market cell via log-log OLS regression and generates a decision matrix with price recommendations and counterfactual scenarios.
+
 ### AI Query Agent
-- Natural language processing system built with Databricks Model Serving
-- Intelligent routing of queries to appropriate API endpoints
+Natural language processing system built with Databricks Model Serving. Routes queries intelligently to appropriate API endpoints based on intent classification.
 
 ### Sales Forecasting Pipeline
-- End-to-end forecasting system using Prophet
-- 15% MAPE on 30-day forecasts with automated daily updates
-- Multi-level aggregation for comprehensive business insights
+Automated forecasting system using Prophet with 15% MAPE on 30-day horizons. Includes multi-level aggregation and daily updates.
 
-### Secure Enterprise Platform
-- Flask and AWS-based platform with IP-based access control
-- Three-tier user authorization system (admin, manager, operator)
-- Robust security standards maintained throughout deployment
+## Background
 
-## 📈 Background
-Economics graduate from ITAM (Instituto Tecnológico Autónomo de México) bringing analytical rigor and business acumen to technical implementations. Specialized in combining economic principles with data science and Python development to solve complex business challenges.
+Economics graduate from ITAM with honors (GPA 9.1/10). Undergraduate thesis estimated price elasticity of alcohol and tobacco consumption in Mexico using probit models and OLS regression on national survey data.
 
-## 🌟 Interests
-- Artificial Intelligence & Natural Language Processing
-- Time Series Analysis & Bayesian Inference
-- Back-end Development & API Design
-- Data Science & Economic Analysis
+## Contact
 
-## 📫 Get in Touch
 - LinkedIn: [ricardo-muñoz-romero](https://www.linkedin.com/in/ricardo-mu%C3%B1oz-romero-5911761b1/)
 - Email: ricardo.munoz.romero@hotmail.com
-
----
-*"Python Developer | Data Scientist | Economist" - Solving complex problems with code and data*
+- Thesis: [Alcohol, Tabaco y Marihuana: ¿Sustitutos o Complemento en el Consumo?](https://ricmunrom.github.io/ricardo-munoz-romero-thesis-2022.pdf)
