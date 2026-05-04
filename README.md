@@ -10,10 +10,10 @@ Data Scientist and Applied Econometrician with a background in Economics. I buil
 
 ## Tech Stack
 
-**Languages:** Python, SQL, JavaScript  
+**Languages:** Python, SQL  
 **Cloud & DevOps:** AWS, DigitalOcean, Linux, Git, Docker  
-**Frameworks:** FastAPI, Flask, LangChain, Prophet, scikit-learn, React  
-**Databases:** PostgreSQL, Oracle, MySQL, DynamoDB, MongoDB
+**Frameworks:** FastAPI, Flask, LangChain, Prophet, scikit-learn, Airflow
+**Databases:** PostgreSQL, Oracle, Snowflake, DynamoDB
 
 ## Featured Projects
 
