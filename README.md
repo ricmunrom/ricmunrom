@@ -28,10 +28,9 @@ Automated forecasting pipeline using Prophet with 15% MAPE on 30-day horizons. I
 
 ## Background
 
-Economist from ITAM with honors (GPA 9.1/10). Undergraduate thesis estimated cross-price elasticities of alcohol, tobacco and marijuana consumption in Mexico using probit models and OLS regression on national survey data.
+Economist from ITAM with honors (GPA 9.1/10). Undergraduate thesis estimated cross-price elasticities of alcohol, tobacco and marijuana consumption in Mexico using probit models and OLS regression on national survey data. [Full text]
 
 ## Contact
 
 - LinkedIn: [ricardo-muñoz-romero](https://www.linkedin.com/in/ricardo-mu%C3%B1oz-romero-5911761b1/)
 - Email: ricardo.munoz.romero@hotmail.com
-- Thesis: [Alcohol, Tabaco y Marihuana: ¿Sustitutos o Complemento en el Consumo?](https://ricmunrom.github.io/ricardo-munoz-romero-thesis-2022.pdf)
