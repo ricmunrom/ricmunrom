@@ -21,10 +21,10 @@ Economist specialized in applied econometrics — demand estimation, elasticitie
 End-to-end elasticity modeling pipeline for pricing optimization. Estimates price elasticity per product/market cell via log-log OLS regression and generates a decision matrix with price actions and annual GP impact projections.
 
 ### AI Query Agent
-Natural language processing system built with Databricks Model Serving. Routes queries intelligently to appropriate API endpoints based on intent classification.
+AI agent built with Databricks Model Serving and LangChain for natural language query routing to client API endpoints.
 
 ### Sales Forecasting Pipeline
-Automated forecasting system using Prophet with 15% MAPE on 30-day horizons. Includes multi-level aggregation and daily updates.
+Automated forecasting pipeline using Prophet with 15% MAPE on 30-day horizons. Includes multi-level aggregation and daily updates.
 
 ## Background
 
