@@ -12,7 +12,7 @@ Economist specialized in applied econometrics — demand estimation, elasticitie
 
 - **Languages:** Python, SQL
 - **Cloud & DevOps:** AWS, DigitalOcean, Linux, Git, Docker
-- **Frameworks:** FastAPI, Flask, LangChain, Prophet, scikit-learn, Airflow
+- **Frameworks:** Pandas, NumPy, scikit-learn, Streamlit, Matplotlib, Flask, Prophet, LangChain, SentenceTransformer, Airflow, Django
 - **Databases:** PostgreSQL, Oracle, Snowflake, DynamoDB
 
 ## Featured Projects
