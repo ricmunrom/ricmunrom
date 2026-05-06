@@ -10,13 +10,10 @@ Economist specialized in applied econometrics — demand estimation, elasticitie
 
 ## Tech Stack
 
-**Languages:** Python, SQL
-
-**Cloud & DevOps:** AWS, DigitalOcean, Linux, Git, Docker
-
-**Frameworks:** FastAPI, Flask, LangChain, Prophet, scikit-learn, Airflow
-
-**Databases:** PostgreSQL, Oracle, Snowflake, DynamoDB
+- **Languages:** Python, SQL
+- **Cloud & DevOps:** AWS, DigitalOcean, Linux, Git, Docker
+- **Frameworks:** FastAPI, Flask, LangChain, Prophet, scikit-learn, Airflow
+- **Databases:** PostgreSQL, Oracle, Snowflake, DynamoDB
 
 ## Featured Projects
 
