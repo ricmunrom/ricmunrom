@@ -1,27 +1,24 @@
 # Ricardo Muñoz Romero
 
-Data Scientist and Applied Econometrician with a background in Economics. I build data-driven systems that combine rigorous quantitative methods with production-ready engineering.
+Economist specialized in applied econometrics — demand estimation, elasticities, pricing optimization — building analytical layers that extend the capabilities of existing planning and decision systems.
 
 ## What I Do
 
-- Design and implement end-to-end data pipelines and predictive models
-- Apply econometric methods to pricing, demand estimation, and forecasting problems
-- Build scalable back-end applications and APIs with Python
+- Estimate demand functions and price elasticities via econometric methods
+- Build pricing optimization pipelines that feed decision systems
+- Deploy end-to-end data solutions combining economic theory with production engineering
 
 ## Tech Stack
 
-**Languages:** Python, SQL  
-
-**Cloud & DevOps:** AWS, DigitalOcean, Linux, Git, Docker  
-
+**Languages:** Python, SQL
+**Cloud & DevOps:** AWS, DigitalOcean, Linux, Git, Docker
 **Frameworks:** FastAPI, Flask, LangChain, Prophet, scikit-learn, Airflow
-
 **Databases:** PostgreSQL, Oracle, Snowflake, DynamoDB
 
 ## Featured Projects
 
 ### Price Elasticity Pipeline
-End-to-end elasticity modeling pipeline for pricing optimization. Estimates price elasticity per product/market cell via log-log OLS regression and generates a decision matrix with price recommendations and counterfactual scenarios.
+End-to-end elasticity modeling pipeline for pricing optimization. Estimates price elasticity per product/market cell via log-log OLS regression and generates a decision matrix with price actions and annual GP impact projections.
 
 ### AI Query Agent
 Natural language processing system built with Databricks Model Serving. Routes queries intelligently to appropriate API endpoints based on intent classification.
@@ -31,7 +28,7 @@ Automated forecasting system using Prophet with 15% MAPE on 30-day horizons. Inc
 
 ## Background
 
-Economics graduate from ITAM with honors (GPA 9.1/10). Undergraduate thesis estimated price elasticity of alcohol and tobacco consumption in Mexico using probit models and OLS regression on national survey data.
+Economist from ITAM with honors (GPA 9.1/10). Undergraduate thesis estimated cross-price elasticities of alcohol, tobacco and marijuana consumption in Mexico using probit models and OLS regression on national survey data.
 
 ## Contact
 
